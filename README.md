@@ -56,11 +56,11 @@ export default defineConfig({
 
 - ```npx shadcn-ui@latest init```
 
-no (js)
-default
-src/style/global.css
-yes
-enter default tailwindcss
-src/components
-src/lib/utils
-no
+1. no (js)
+2. default
+3. src/style/global.css
+4. yes
+5. enter default tailwindcss
+6. src/components
+7. src/lib/utils
+8. no
